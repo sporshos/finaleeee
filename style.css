@@ -1,0 +1,65 @@
+div{
+    top:60px;
+    width: 80%;
+    position: relative;
+    left: 10%;
+    height: auto;
+    min-height: 370px;
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.158);
+    border-radius: 5px;
+    text-align: center;
+    font-family: "Poppins", "sans-serif";
+    
+}
+#submit{
+    position: relative;
+    top: 54px;
+    left: -2%;
+    padding: 11px 43px;
+    border-radius: 7px;
+    border: none;
+    font-family: "Poppins", "sans-serif";
+   
+}
+
+p{
+    position: relative;
+    font-size: .9rem;
+    top: 40px;
+    color: brown;
+    font-weight: 400;
+}
+#result{
+    width: 90%;
+    left: 5%;
+    position: relative;
+    top: 55px;
+}
+input {
+    
+    width: 80%;
+    padding: 7px 5px;
+    border-radius: 4px;
+    border: 1px solid;
+    font-family: "Poppins", "sans-serif";
+    position: relative;
+    top: 40px;
+    
+}
+img {
+    top: 10%;
+    width: 90%;
+    display: none;
+    position: relative;
+    top: 64px;
+    left: 5%;
+}
+
+#img {
+    top: 10%;
+    width: 90%;
+    display: none;
+    position: relative;
+    top: 64px;
+    left: 5%;
+}
